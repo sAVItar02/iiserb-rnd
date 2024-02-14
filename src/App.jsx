@@ -1,7 +1,5 @@
 import "./App.css";
 import { Navigation } from "./components/Navigation";
-import Carousel from "./components/Carousel";
-import { images } from "./data/carouselImages.json";
 import Hero from "./components/Hero";
 import Footer from "./components/Footer";
 import About from "./components/About";
@@ -13,7 +11,6 @@ function App() {
         <Navigation />
         <Hero />
         <About />
-        {/* <Carousel images={images} /> */}
         <Footer />
       </div>
     </>

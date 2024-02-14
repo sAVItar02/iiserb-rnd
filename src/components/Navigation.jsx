@@ -81,12 +81,12 @@ export function Navigation() {
             <div
               ref={menuRef}
               id="menu-buffer"
-              className="w-[var(--menu-width)] h-[var(--menu-height)] border border-gray-300 shadow-xl absolute z-50 top-0 invisible group-hover:translate-y-11 translate-y-20 opacity-0 group-hover:opacity-100 group-hover:visible bg-white rounded-lg duration-200 ease-linear"
+              className="w-[var(--menu-width)] h-[var(--menu-height)] border border-gray-400 shadow-xl absolute z-50 top-0 invisible group-hover:translate-y-11 translate-y-20 opacity-0 group-hover:opacity-100 group-hover:visible bg-white rounded-lg duration-200 ease-linear"
             >
               <span
                 ref={caretRef}
                 id="caret"
-                className="block h-4 w-4 border-t border-l border-gray-300 bg-white rounded-sm 0 rotate-45 absolute -top-2 left-0 group-hover:left-[var(--transX)] duration-300 ease-linear"
+                className="block h-4 w-4 border-t border-l border-gray-400 bg-white rounded-sm 0 rotate-45 absolute -top-2 left-0 group-hover:left-[var(--transX)] duration-300 ease-linear"
               ></span>
               <div className="w-[var(--menu-width)] h-[var(--menu-height)] p-5 duration-200 ease-linear overflow-hidden">
                 <div

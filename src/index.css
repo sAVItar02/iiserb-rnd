@@ -8,4 +8,8 @@
   body {
     @apply bg-white font-poppins overflow-x-hidden
   }
+
+  .textShadow {
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+  }
 }
