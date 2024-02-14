@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "src": "https://research.iiserb.ac.in/images/slider/1.jpg",
+      "alt": "Carousel Image 1"
+    },
+    {
+      "src": "https://research.iiserb.ac.in/images/slider/2.jpg",
+      "alt": "Carousel Image 2"
+    },
+    {
+      "src": "https://research.iiserb.ac.in/images/slider/3.jpg",
+      "alt": "Carousel Image 3"
+    },
+    {
+      "src": "https://research.iiserb.ac.in/images/slider/4.jpg",
+      "alt": "Carousel Image 4"
+    },
+    {
+      "src": "https://research.iiserb.ac.in/images/slider/5.jpg",
+      "alt": "Carousel Image 5"
+    },
+    {
+      "src": "https://research.iiserb.ac.in/images/slider/6.jpg",
+      "alt": "Carousel Image 6"
+    },
+    {
+      "src": "https://research.iiserb.ac.in/images/slider/7.jpg",
+      "alt": "Carousel Image 7"
+    },
+    {
+      "src": "https://research.iiserb.ac.in/images/slider/8.jpg",
+      "alt": "Carousel Image 8"
+    },
+    {
+      "src": "https://research.iiserb.ac.in/images/slider/9.jpg",
+      "alt": "Carousel Image 9"
+    }
+  ]
+}

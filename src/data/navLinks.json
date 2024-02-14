@@ -1,0 +1,100 @@
+{
+  "quickLinks": [
+    {
+      "href": "#",
+      "name": "Publications",
+      "icon": "newspaper"
+    },
+    {
+      "href": "#",
+      "name": "Books",
+      "icon": "book"
+    },
+    {
+      "href": "#",
+      "name": "Patents",
+      "icon": "certificate"
+    },
+    {
+      "href": "#",
+      "name": "Book Chapters",
+      "icon": "book-open"
+    },
+    {
+      "href": "#",
+      "name": "Projects",
+      "icon": "diagram-project"
+    },
+    {
+      "href": "#",
+      "name": "MOUs",
+      "icon": "file"
+    },
+    {
+      "href": "#",
+      "name": "People",
+      "icon": "users"
+    }
+  ],
+
+  "centers": [
+    {
+      "href": "#",
+      "name": "CREST",
+      "icon": "building"
+    },
+    {
+      "href": "#",
+      "name": "Center for Science and Society",
+      "icon": "flask"
+    },
+    {
+      "href": "#",
+      "name": "Central Intrumentation Facility",
+      "icon": "toolbox"
+    }
+  ],
+
+  "doc": [
+    {
+      "href": "#",
+      "name": "NIRF Documents",
+      "icon": "file-lines"
+    },
+    {
+      "href": "#",
+      "name": "Forms",
+      "icon": "file-lines"
+    },
+    {
+      "href": "#",
+      "name": "IISERB Entrepreneurship Policy",
+      "icon": "file-lines"
+    },
+    {
+      "href": "#",
+      "name": "IISERB IPR Policy",
+      "icon": "file-lines"
+    },
+    {
+      "href": "#",
+      "name": "Conflict Resolution Policy",
+      "icon": "file-lines"
+    },
+    {
+      "href": "#",
+      "name": "ORI Document",
+      "icon": "file-lines"
+    },
+    {
+      "href": "#",
+      "name": "BioPRAP Guidelines",
+      "icon": "file-lines"
+    },
+    {
+      "href": "#",
+      "name": "Manual",
+      "icon": "file-lines"
+    }
+  ]
+}
