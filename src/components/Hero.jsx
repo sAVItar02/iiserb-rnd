@@ -3,10 +3,7 @@ import heroImage from "./../assets/dna.jfif";
 
 const Hero = () => {
   return (
-    <div className="w-full h-full object-cover rounded-xl flex flex-col items-center justify-center gap-3 py-36 px-10 relative">
-      <div className="h-full w-full object-cover overflow-hidden rounded-xl absolute z-[-1]">
-        <img src={heroImage} alt="Hero Image" />
-      </div>
+    <div className="w-full h-ful bg-heroImage object-cover rounded-xl flex flex-col items-center justify-center gap-3 py-36 px-10 relative">
       <h1 className="text-3xl sm:text-4xl lg:text-5xl text-center text-white font-semibold textShadow">
         <span className="text-[#00ecc1]">Research</span> and{" "}
         <span className="text-[#00ecc1]">Development</span>

@@ -1,0 +1,31 @@
+{
+  "siteMap": [
+    {
+      "name": "Home",
+      "src": "#"
+    },
+    {
+      "name": "People",
+      "src": "#"
+    },
+    {
+      "name": "Publications",
+      "src": "#"
+    }
+  ],
+
+  "contact": [
+    {
+      "name": "Contact Link 1",
+      "src": "#"
+    },
+    {
+      "name": "Contact Link 2",
+      "src": "#"
+    },
+    {
+      "name": "Contact Link 3",
+      "src": "#"
+    }
+  ]
+}
