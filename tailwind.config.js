@@ -54,7 +54,7 @@ export default {
       },
 
       backgroundImage: {
-        heroImage: "url('./src/assets/dna.jfif')",
+        heroImage: "url('./dna.jfif')",
       },
     },
   },
