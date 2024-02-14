@@ -25,7 +25,7 @@ const About = () => {
   facilities and infrastructure.`;
 
   return (
-    <div className="flex flex-col items-center justify-center gap-16">
+    <div className="flex flex-col items-center justify-center gap-24 mt-10">
       <div className="flex lg:flex-row flex-col items-center justify-center gap-16 flex-wrap">
         <div className="flex flex-col items-start justify-center gap-3 animate-fadeInLeft w-full flex-[4] h-full">
           <h2 className="w-full text-left text-xl font-semibold">
